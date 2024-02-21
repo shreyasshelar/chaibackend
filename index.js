@@ -1,6 +1,6 @@
 //to use .env
 require('dotenv').config()
-const express = require('express')
+const express = require('express') //common js sync import
 //import express from "express"
 
 const app = express()

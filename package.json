@@ -1,0 +1,27 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreyasshelar/chaibackend.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "shreyas shelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreyasshelar/chaibackend/issues"
+  },
+  "homepage": "https://github.com/shreyasshelar/chaibackend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2"
+  }
+}

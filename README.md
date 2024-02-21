@@ -1,2 +1,2 @@
 # chaibackend
-a basic app
+a basic app to deploy
